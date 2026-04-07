@@ -1,10 +1,10 @@
-# fossee-uiux-enhancement
+fossee-uiux-enhancement
 UI/UX Improvement - Python Screening Task
 Mobile-first UI/UX improvements for FOSSEE React project
 
 
 
-### **Visual Hierarchy Improvements**
+# **Visual Hierarchy Improvements**
 1. **Glassmorphism Cards** - `backdrop-filter: blur(12px)` creates depth
 2. **Semantic Color System** - Status badges (emerald=upcoming, blue=booked)
 3. **Typography Scale** - Fluid `clamp()` sizing from 12px labels → 48px hero
